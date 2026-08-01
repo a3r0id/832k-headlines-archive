@@ -1,4 +1,4 @@
-# 827k Headlines Archive
+# 832k Headlines Archive
 
 A SQLite archive of **832,207** news headlines and related records collected roughly from **July 2022 through April 2026**, released under the [MIT License](LICENSE).
 
